@@ -38,7 +38,7 @@ var optNewPhrasesGoFirst = false // new phrases are inserted at the beginning of
 var optCompactCiphCount = 8 // compact mode threshold
 var optLoadUserHistCiphers = true // load ciphers when CSV file is imported
 
-var optMatrixCodeRain = true // code rain
+var optMatrixCodeRain = false // code rain
 var optRoundedInterface = true // rounded menus, buttons and charts
 var optBorderWidthPx = 2 // UI border thickness, [1;3] range
 

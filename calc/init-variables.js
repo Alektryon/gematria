@@ -1,7 +1,7 @@
 // ==================================================================
 // breakdown.js
 
-var breakCipher = "English Ordinal" // current cipher for breakdown
+var breakCipher = "Alphanumeric Qabbala" // current cipher for breakdown
 var bgCol = "var(--breakdown-bg-accent)" // breakdown table background color
 var chLimit = 30 // character limit, used to switch to a long breakdown style
 var maxRowWidth = 36 // one row character limit (long breakdown)
