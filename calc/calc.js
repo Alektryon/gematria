@@ -15,7 +15,7 @@ var oCat= "" // open category in Ciphers Menu
 var colorMenuColumns = ($(window).width() < 1600) ? 2 : 4 // number of columns inside Color Menu
 var encodingMenuColumns = 4 // number of columns inside Encoding menu
 var enabledCiphColumns = 4 // number of columns for enabled ciphers table (for phrase)
-var optForceTwoColumnLayout = false // force 2 cipher columns
+var optForceTwoColumnLayout = true // force 2 cipher columns
 var optColoredCiphers = true // use colored ciphers
 
 var colorControlsMenuOpened = false // color controls menu state
@@ -290,7 +290,7 @@ function createCiphersMenu() { // create menu with all cipher catergories
 
 	o += '<div class="dropdown">'
 	o += '<button class="dropbtn">Ciphers</button>'
-	o += '<div class="dropdown-content" style="width: 422px; min-height: 314px;">'
+	o += '<div class="dropdown-content" style="width: 422px; min-height: 222px;">'
 
 	o += '<div id="ciphHeaderPanel"><center>'
 	o += '<input class="intBtn3" type="button" value="Empty" onclick="disableAllCiphers()">'
