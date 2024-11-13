@@ -90,7 +90,7 @@ function updateWordBreakdown(impName = breakCipher, impBool = false, chartUpd = 
 				simplePhr = sVal() // display full phrase
 			}
 			oStart += '<div id="SimpleBreak">'
-			oStart += '<span class="breakPhrase">' + simplePhr + '</span><span class="breakPhrase"> = </span><span class="breakSum">'
+			oStart += '<span class="breakPhrase">' + '"' + simplePhr + '"' + '</span><span class="breakPhrase"> = </span><span class="breakSum">'
 			if (curCipher.wheelCipher) {
 				oStart += curCipher.multiCharacter ? getSumStr(curCipher.sv) :
 					getSumStr(curCipher.cv) // add all values in array
