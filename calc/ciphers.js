@@ -16,49 +16,6 @@ new cipher(
 )
 */
 
-calcOptions = [
-	"optNumCalcMethod = 1",
-	"optFiltCrossCipherMatch = true",
-	"optFiltSameCipherMatch = false",
-	"optShowOnlyMatching = false",
-	"optNewPhrasesGoFirst = false",
-	"optAllowPhraseComments = true",
-	"liveDatabaseMode = true",
-	"optLetterWordCount = true",
-	"optWordBreakdown = true",
-	"optCompactBreakdown = true",
-	"optShowCipherChart = true",
-	"optGradientCharts = false",
-	"optLoadUserHistCiphers = true",
-	"optMatrixCodeRain = false",
-	"interfaceHue = 222",
-	"interfaceSat = 2",
-	"interfaceLit = 0.6",
-	"fontHue = 200",
-	"fontSat = 0.5",
-	"fontLit = 0.9",
-	"coderainHue = 200",
-	"coderainSat = 0.2",
-	"coderainLit = 0.1",
-	"optPhraseLimit = 5",
-	"dbPageItems = 5",
-	"dbScrollItems = 1",
-	"optForceTwoColumnLayout = true",
-	"optColoredCiphers = true",
-	"optGemSubstitutionMode = true",
-	"optGemMultCharPos = false",
-	"optGemMultCharPosReverse = false",
-	"optDotlessLatinI = true",
-	"encDefAlphArr = 'abcdefghijklmnopqrstuvwxyz'",
-	"encDefVowArr = 'aeiouy'",
-	"encDefExcLetArr = 'qzjx'",
-	"optImageScale = 1",
-	"optHistTableCaption = ''",
-	"optRoundedInterface = true",
-	"optBorderWidthPx = 2",
-	"optNumerologyMode = false",
-	"optShowSpecialNumbers = false"
-]
 cipherList = [
 	new cipher(
 		"English Standard",
@@ -149,7 +106,7 @@ cipherList = [
 		false,
 		false,
 		false,
-		"<p>This cipher is based on <span class='qgBold'>English Reduced</span> where each value is multiplied by <span class='qgBold'>10<sup>n-1</sup></span> for every <span class='qgBold'>1 to 9 loop count</span>, where <span class='qgBold'>n</span> is the current loop count. </p> <p> In simple words, the values are multiplied by <span class='qgBold'>1</span> for the <span class='qgBold'>first 1 to 9 loop</span>, by <span class='qgBold'>10</span> for the <span class='qgBold'>second loop</span>, by <span class='qgBold'>100</span> for the <span class='qgBold'>third loop</span> and so on.</p>"
+		"<p>In the <span class='qgBold'>English 1296</span> cipher (also called ʺ<span class='qgBold'>Aza</span>ʺ) a correspondence is made between the 26 letters of the English alphabet and the 25 divisors of 1296, the smallest natural number having exactly 25 divisors.</p> <p>In order to achieve this, the letter ʺAʺ was given the value Zero, and then the sequence of divisors starts at B=1, then C=2, until Z=1296.</p>"
 	),
 	new cipher(
 		"Atlantean Synx",
@@ -162,7 +119,7 @@ cipherList = [
 		false,
 		false,
 		false,
-		""
+		"<p>The Atlantean counterpart of the Lemurian <span class='qgBold'>Synx</span>, erasing Zero and adding the Ampersand (&) at the end of the alphanumeric sequence.</p>"
 	),
 	new cipher(
 		"QWERTY",
@@ -175,7 +132,7 @@ cipherList = [
 		false,
 		false,
 		false,
-		""
+		"<p>English Gematria system based on the QWERTY keyboard.</p>"
 	),
 	new cipher(
 		"Numeric QWERTY",
@@ -188,7 +145,7 @@ cipherList = [
 		false,
 		false,
 		false,
-		""
+		"<p>English Gematria system based on the <span class='qgBold'>alphanumeric</span> QWERTY keyboard.</p>"
 	),
 	new cipher(
 		"Hebrew Gematria",
