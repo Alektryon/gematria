@@ -106,7 +106,7 @@ cipherList = [
 		false,
 		false,
 		false,
-		"<p>In the this cipher, the 26 letters of the English alphabet are associated with the 25 divisors of 1296, the smallest natural number having exactly 25 divisors.</p> <p>In order to achieve this, the letter ʺAʺ was given the value Zero, and then the sequence of divisors will start at B=1, then C=2, until Z=1296.</p>"
+		"<p>In this cipher, the 26 letters of the English alphabet are associated with the 25 divisors of 1296, the smallest natural number having exactly 25 divisors.</p> <p>In order to achieve this, the letter ʺAʺ was given the value Zero, and then the sequence of divisors will start at B=1, then C=2, until Z=1296.</p>"
 	),
 	new cipher(
 		"Atlantean Synx",
