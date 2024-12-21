@@ -96,7 +96,7 @@ cipherList = [
 		"<p>The <span class='qgBold'>Synx</span> cipher is based on making the 36 alphanumeric digits 0-Z correspond to the 36 divisors of <span class='qgBold'>1260</span>, the smallest natural number having exactly 36 divisors.</p> <p>The name <span class='qgBold'>Synx</span> adds to <span class='qgBold'>1260</span> in the same cipher, thus reinforcing its connection with the number on which it is based.</p>"
 	),
 	new cipher(
-		"English 1296",
+		"Divisors of 1296",
 		"English II",
 		30, 60, 70,
 		[97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122],
@@ -106,12 +106,12 @@ cipherList = [
 		false,
 		false,
 		false,
-		"<p>In the <span class='qgBold'>English 1296</span> cipher (also called ʺ<span class='qgBold'>Aza</span>ʺ) a correspondence is made between the 26 letters of the English alphabet and the 25 divisors of 1296, the smallest natural number having exactly 25 divisors.</p> <p>In order to achieve this, the letter ʺAʺ was given the value Zero, and then the sequence of divisors starts at B=1, then C=2, until Z=1296.</p>"
+		"<p>In the this cipher, the 26 letters of the English alphabet are associated with the 25 divisors of 1296, the smallest natural number having exactly 25 divisors.</p> <p>In order to achieve this, the letter ʺAʺ was given the value Zero, and then the sequence of divisors will start at B=1, then C=2, until Z=1296.</p>"
 	),
 	new cipher(
 		"Atlantean Synx",
 		"English II",
-		330, 20, 65,
+		270, 27, 72,
 		[49,50,51,52,53,54,55,56,57,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,38],
 		[1,2,3,4,5,6,7,9,10,12,14,15,18,20,21,28,30,35,36,42,45,60,63,70,84,90,105,126,140,180,210,252,315,420,630,1260],
 		true,
