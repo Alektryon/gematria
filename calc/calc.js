@@ -65,7 +65,7 @@ var optDotlessLatinI = true // recognize dotless Latin 'ı' as regular 'i'
 var optAllowPhraseComments = true // allow phrase comments, text inside [...] is not evaluated
 var liveDatabaseMode = true // live database mode
 
-var dbPageItems = 5 // number of phrases in one section
+var dbPageItems = 7 // number of phrases in one section
 var dbScrollItems = 1 // used for scrolling
 
 var optGradientCharts = false // gradient fill for breakdown/cipher charts
@@ -91,7 +91,7 @@ var coderainSatDefault = 0.2
 var coderainLit = 0.1 // coderain lightness
 var coderainLitDefault = 0.1
 
-var optImageScale = 1.0 // image scaling factor for screenshots
+var optImageScale = 1.5 // image scaling factor for screenshots
 var optHistTableCaption = '' // history table caption (top left cell)
 
 var calcOptionsArr = [ // used to export/import settings
@@ -1199,7 +1199,7 @@ function enableAllEnglishCiphers() {
 	prevCiphIndex = -1 // reset cipher selection
 	var cur_chkbox
 	for (i = 0; i < cipherList.length; i++) {
-		if (cipherList[i].cArr.indexOf(97) > -1 && cipherList[i].cipherCategory !== 'Other') { // lowercase "a", not "Other" category
+		if (cipherList[i].cArr.indexOf(97) > -1 && cipherList[i].cipherCategory !== 'Extra' && cipherList[i].cipherCategory !== 'Foreign') { // lowercase "a", not "Extra" or "Foreign" categories
 			cur_chkbox = document.getElementById("cipher_chkbox"+i)
 			cipherList[i].enabled = true
 			if (cur_chkbox !== null) cur_chkbox.checked = true
