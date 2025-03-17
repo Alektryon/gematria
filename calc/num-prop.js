@@ -11,19 +11,19 @@ function initNumberPropArrays() {
 	{
 		populatePrimeNumbers(100000) // 10 million is ~4.98MB, ~100ms (boolean)
 		window.localStorage.setItem('primeNumsStorage', JSON.stringify(primeNums))
-		fibonacciNums = populateFibonacciNumbers(1000000)
-		window.localStorage.setItem('fibonacciNumsStorage', JSON.stringify(fibonacciNums))
 		triangularNums = populateTriangularNumbers(1000000)
 		window.localStorage.setItem('triangularNumsStorage', JSON.stringify(triangularNums))
 		squareNums = populateSquareNumbers(1000000)
 		window.localStorage.setItem('squareNumsStorage', JSON.stringify(squareNums))
+		fibonacciNums = populateFibonacciNumbers(1000000)
+		window.localStorage.setItem('fibonacciNumsStorage', JSON.stringify(fibonacciNums))
 		starNums = populateStarNumbers(1000000)
 		window.localStorage.setItem('starNumsStorage', JSON.stringify(starNums))
 	} else {
 		primeNums = JSON.parse(window.localStorage.getItem('primeNumsStorage'))
-		fibonacciNums = JSON.parse(window.localStorage.getItem('fibonacciNumsStorage'))
 		triangularNums = JSON.parse(window.localStorage.getItem('triangularNumsStorage'))
 		squareNums = JSON.parse(window.localStorage.getItem('squareNumsStorage'))
+		fibonacciNums = JSON.parse(window.localStorage.getItem('fibonacciNumsStorage'))
 		starNums = JSON.parse(window.localStorage.getItem('starNumsStorage'))
 	}
 }
@@ -39,12 +39,12 @@ function listNumberProperties(val) {
 
 	o += '<tr><td class="numPropLabel">Prime</td></tr>'
 	o += '<tr><td class="npLine">'+getNumProp(val, primeNums)+'</td></tr>'
-	o += '<tr><td class="numPropLabel">Fibonacci</td></tr>'
-	o += '<tr><td class="npLine">'+getNumProp(val, fibonacciNums)+'</td></tr>'
 	o += '<tr><td class="numPropLabel">Triangular</td></tr>'
 	o += '<tr><td class="npLine">'+getNumProp(val, triangularNums)+'</td></tr>'
 	o += '<tr><td class="numPropLabel">Square</td></tr>'
 	o += '<tr><td class="npLine">'+getNumProp(val, squareNums)+'</td></tr>'
+	o += '<tr><td class="numPropLabel">Fibonacci</td></tr>'
+	o += '<tr><td class="npLine">'+getNumProp(val, fibonacciNums)+'</td></tr>'
 	o += '<tr><td class="numPropLabel">Star</td></tr>'
 	o += '<tr><td class="npLine">'+getNumProp(val, starNums)+'</td></tr>'
 
@@ -61,12 +61,12 @@ function listNumberProperties(val) {
 	 	o += ' x '+pf[n]
 	}
 	o += '</td></tr>'
-	o += '<tr><td class="numPropLabel">Divisors</td></tr>'
+	o += '<tr><td class="numPropLabel">Divisors ('+(dv.length-1)+')</td></tr>'
 	o += '<tr><td>'+dv[1]
 	for (n = 2; n < dv.length; n++) {
 	 	o += ', '+dv[n]
 	}
-	o += '</tr><td><b>'+'&#931;'+'</b>'+' '+dv[0]+' ('+(dv.length-1)+')</td></tr>'
+	o += '</tr><td>(<b>'+'&#931;'+'</b>'+' '+dv[0]+')</td></tr>'
 
 	o += '</tbody></table>'
 
@@ -104,7 +104,7 @@ function listNumberPropertiesAlt(val) {
 
 	o += '<tr><td colspan=2 class="numPropLabel">Tic Xenotation</td></tr>'
 	o += '<tr><td colspan=2 class="numTicXeno">'+getNumXenotation(val)+'</td></tr>'
-	o += '<tr><td colspan=2 class="numTicXeno">'+getNumNullXenotation(val)+'</td></tr>'
+//	o += '<tr><td colspan=2 class="numTicXeno">'+getNumNullXenotation(val)+'</td></tr>'
 
 	o += '<tr><td colspan=2><hr class="numPropSeparator"></td></tr>'
 
@@ -119,21 +119,20 @@ function listNumberPropertiesAlt(val) {
 // =========================== Xenotation ===========================
 
 const getNumXenotation = n => { if (n == 1) { return '(-P)&#8226;' } else if (n == 0) { return '((-P))&#8226;' }; return n2x(n).map(stringify).join('') }
-const getNumNullXenotation = n => { if (n == 1) { return '(-P)()' } else if (n == 0) { return '((-P))()' }; return n2x(n).map(stringify).join('').replace(/&#8226;/g, '()') }
+// const getNumNullXenotation = n => { if (n == 1) { return '(-P)()' } else if (n == 0) { return '((-P))()' }; return n2x(n).map(stringify).join('').replace(/&#8226;/g, '()') }
 const stringify = a => { if (Array.isArray(a)) { return '(' + a.reduce((a, b) => a + stringify(b), '') + ')' } else { return a } }
-const shuffle = a => { a.sort((b, c) => Math.round(Math.random()) ? 1 : -1); return a }
+// const shuffle = a => { a.sort((b, c) => Math.round(Math.random()) ? 1 : -1); return a }
 const n2x = n => { // 3 -> (:), middle dot - &#183;
 	const factors = getNumFactorization(n)
-	return shuffle(factors).map(f => f == 2 ? '&#8226;' : n2x(primeNums.indexOf(f)+1))
-	// return factors.map(f => f == 2 ? ':' : n2x(primeNums.indexOf(f)+1))
+	// return shuffle(factors).map(f => f == 2 ? '&#8226;' : n2x(primeNums.indexOf(f)+1))
+	return factors.map(f => f == 2 ? '&#8226;' : n2x(primeNums.indexOf(f)+1))
 };
 
-function strToXenotation(str, nullXeno = false) {
+function strToXenotation(str) {
 	var out = ''
 	var sArr = str.split(',')
 	for (var i = 0; i < sArr.length; i++) {
-		if (nullXeno) { out += getNumNullXenotation(sArr[i]) + ',' }
-		else { out += getNumXenotation(sArr[i]) + ',' }
+		out += getNumXenotation(sArr[i]) + ','
 	}
 	console.log(out.slice(0,-1))
 	copy(out.slice(0,-1))
@@ -281,8 +280,7 @@ function numBaseXtoY (num, x, y, separator = "") { // convert number from one ba
 	if (num == 0) return num
 
 	var i
-	var baseDigits = ['0','1','2','3','4','5','6','7','8','9','a','b','c','d','e','f',
-	'g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
+	var baseDigits = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 	var newBase = [] // array for new base digits
 
 	if (x !== 10) { // convert to base10 if necessary

@@ -1869,6 +1869,30 @@ body {
 .quickGuide ul{
 	padding-inline-start: 1.25em;
 }
+.cipherInfo {
+	background-color: var(--menu-bg-accent2);
+	color: var(--font-white-2);
+	font-family: var(--font-family), "Arial", sans-serif;
+	font-size: 100%;
+	padding: 1em 2em 1em 2em;
+	position: absolute;
+	top: 10%;
+	left: 30%;
+	height: 80%;
+	width: 40%;
+	overflow: auto;
+	z-index: 1000;
+	border: 1px solid var(--border-dark-accent);
+}
+@media (max-width: 911px) { /* mobile */
+	.cipherInfo {
+		top: 50% !important;
+		left: 50% !important;
+		transform: translateX(-50%) translateY(-50%);
+		width: 80% !important;
+		height: 80% !important;
+	}
+}
 .qgBold, .qgBold2 {
 	font-size: 100%;
 	font-weight: 500;
@@ -1914,6 +1938,26 @@ body {
 /*                 Cipher Info                */
 /* ########################################## */
 
+.contactInfo {
+	background-color: var(--menu-bg-accent2);
+	color: var(--font-white-2);
+	font-family: var(--font-family), "Arial", sans-serif;
+	font-size: 100%;
+	text-align: center;
+	padding: 1em 2em 1em 2em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	height: 560px;
+	width: 480px;
+	overflow: auto;
+	z-index: 1000;
+	border: 1px solid var(--border-dark-accent);
+}
+.contactInfo {
+	height: unset;
+}
 .ciphInfoPanel {
 	background-color: var(--menu-bg-accent2);
 	color: var(--font-white-2);
@@ -1938,6 +1982,11 @@ body {
 	box-sizing: border-box;
 }
 @media (max-width: 911px) { /* mobile */
+	.contactInfo {
+		width: 400px !important;
+		height: 60% !important;
+		max-height: 560px !important;
+	}
 	.ciphInfoPanel {
 		min-width: unset;
 		max-width: unset;

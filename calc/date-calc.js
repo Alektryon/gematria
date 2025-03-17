@@ -69,8 +69,9 @@ function updDates(offsetMode = false, ctrlClass = '') { // offsetMode - add/subt
 	if (WD_arr.W !== 0) o += dDurLine( dFmt(WD_arr.W,2) + dFmt(WD_arr.D,3) )
 	o += dDurLine( dFmt(getDayDiff(d_max, d_min),3) )
 
-	if (endDate == 1) o += '<div><span class="dateOffsetLabel">(including end date)</span></div>'
-	else if (endDate == -1) o += '<div><span class="dateOffsetLabel">(excluding start date)</span></div>'
+	// @Alektryon changed "including end date" to "including both dates", and "excluding start date" to "excluding both dates", even though the calculations remain the original.
+	if (endDate == 1) o += '<div><span class="dateOffsetLabel">(including both dates)</span></div>'
+	else if (endDate == -1) o += '<div><span class="dateOffsetLabel">(excluding both dates)</span></div>'
 
 	if (d_min.getTime() == d_max.getTime()) o = dDurLine('<span class="durVal">0</span> days') // same dates
 	$('#dateDurValues').html(o)
@@ -164,8 +165,9 @@ function toggleDateCalcMenu() {
 		if (endDate == 1) endCheckedState = "checked"
 		if (endDate == -1) startCheckedState = "checked"
 		if (!endChkEnabled) { endCheckedState = "disabled"; startCheckedState = "disabled"; }
-		o += '<tr><td colspan=3 style="text-align: left;"><label class="chkLabel endDateLabel">Include End Date<input type="checkbox" id="chkbox_incEndDate" onclick="toggleEndDateCalc()" '+endCheckedState+'><span class="custChkBox"></span></label></td></tr>'
-		o += '<tr><td colspan=3 style="text-align: left;"><label class="chkLabel endDateLabel">Exclude Start Date<input type="checkbox" id="chkbox_excStartDate" onclick="toggleStartDateCalc()" '+startCheckedState+'><span class="custChkBox"></span></label></td></tr>'
+		// @Alektryon changed "Include End Date" to "Include Both Dates", and "Exclude Start Date" to "Exclude Both Dates", even though the calculations remain the original.
+		o += '<tr><td colspan=3 style="text-align: left;"><label class="chkLabel endDateLabel">Include Both Dates<input type="checkbox" id="chkbox_incEndDate" onclick="toggleEndDateCalc()" '+endCheckedState+'><span class="custChkBox"></span></label></td></tr>'
+		o += '<tr><td colspan=3 style="text-align: left;"><label class="chkLabel endDateLabel">Exclude Both Dates<input type="checkbox" id="chkbox_excStartDate" onclick="toggleStartDateCalc()" '+startCheckedState+'><span class="custChkBox"></span></label></td></tr>'
 
 		// add/subtract date
 		o += '<tr>'

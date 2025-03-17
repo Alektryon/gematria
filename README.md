@@ -3,6 +3,13 @@
 
 > Use a Chromium based browser for best experience
 
+### Edited by Alektryon
+
+* Reorganized the list of ciphers, adding many ciphers and removing others
+* Added a "Ciphers (Info)" menu, with valuable information on all available ciphers
+* Changed the default database to a more "functional" one
+* And some other minor changes (check the list of Commits)
+
 ### Features
 
 * Dynamic highlighter with a filter
