@@ -19,7 +19,7 @@ function displayQuickstartGuide() {
 	o += '<p>'
 	o += '<span class="qgBold2">Quickstart Guide</span>'
 	o += '<br>'
-	o += '<span class="qgVer">GEMATRO '+gematroVersion+' ('+gematroVersionFull()+')<br>Edited by Alektryon</span>'
+	o += '<span class="qgVer">GEMATRO '+gematroVersion+' ('+gematroVersionFull()+')<br><i>&#x21B3; Edited by Alektryon (March 17, 2025)</i></span>'
 	o += '</p>'
 
 	o += '<hr class="numPropSeparator">'
@@ -660,7 +660,7 @@ function displayContactInfo() {
 	
 	o += '<hr class="numPropSeparator">'
 	
-	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;">This calculator that youʼre using is based entirely on the original <a class="qgLink" href="https://gematro.github.io" target="_blank">GEMATRO</a> calculator by <a class="qgLink" href="https://github.com/gematro" target="_blank">Mikhail</a>, with some changes, deletions and additions by Luís Gonçalves (<a class="qgLink" href="https://github.com/Alektryon" target="_blank">Alektryon</a>).<br><br><span class="qgBold">Disclaimer:</span><br><br>Let it be made perfectly clear that Mikhail, the author of the original "GEMATRO" software, has no association whatsoever with me (Luís Gonçalves) or with this edited version of his <i>open-source</i> software.</span></div>'
+	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;">This calculator that youʼre using is based entirely on the original <a class="qgLink" href="https://gematro.github.io" target="_blank">GEMATRO</a> calculator by <a class="qgLink" href="https://github.com/gematro" target="_blank">Mikhail</a>, with some changes, deletions and additions by Luís Gonçalves (<a class="qgLink" href="https://github.com/Alektryon" target="_blank">Alektryon</a>).<br></div>'
 	
 	o += '<hr class="numPropSeparator">'
 	
@@ -668,7 +668,11 @@ function displayContactInfo() {
 	
 	o += '<hr class="numPropSeparator">'
 
-	o += '<div style="margin-top: 1em;">If you enjoy my blog <a href="https://gematriaresearch.blogspot.com" target="_blank">Gematria Research</a>, and want to further support my work, I will greatly appreciate if you consider a donation. Thanks in advance! &#128522;</div>'
+	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;"><span class="qgBold">Disclaimer:</span><br><br>Let it be made perfectly clear that Mikhail, the author of the original "GEMATRO" software, has no association whatsoever with me (Luís Gonçalves) or with this edited version of his <i>open-source</i> software.</span></div>'
+	
+	o += '<hr class="numPropSeparator">'
+	
+	o += '<div style="margin-top: 1em;">If you enjoy my blog <a href="https://gematriaresearch.blogspot.com" target="_blank">Gematria Research</a> and want to further support my work, I will greatly appreciate if you consider a donation. Thanks in advance! &#128522;</div>'
 
 	o += '<br><span class="qgAddr"><a class="qgLink" href="https://paypal.me/alektryon">PayPal.me/Alektryon</a></span><br><br><br>'
 
