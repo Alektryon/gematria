@@ -57,8 +57,8 @@ var optGemSubstitutionMode = true // simple substitution of characters with corr
 var optGemMultCharPos = false // value of each character is multiplied by character index
 var optGemMultCharPosReverse = false // value of each character is multiplied by character index in reverse order
 
-var optFiltSameCipherMatch = true // filter shows only phrases that match in the same cipher
-var optFiltCrossCipherMatch = false // filter shows only ciphers that have matching values
+var optFiltSameCipherMatch = false // filter shows only phrases that match in the same cipher
+var optFiltCrossCipherMatch = true // filter shows only ciphers that have matching values
 var alphaHlt = 0.15 // opacity for values that do not match - change value here and in conf_SOM()
 
 var optDotlessLatinI = true // recognize dotless Latin 'ı' as regular 'i'
