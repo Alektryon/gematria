@@ -114,7 +114,7 @@ input {
 
 input, textarea, button, label.intBtn, .intBtnRepo, .optionElementTable,
 .dropdown-content, .dropdown-content-opt, .enterAsWordsLimit,
-.quickGuide, .discPanel, .ciphInfoPanel, .contextMenuTooltip,
+.quickGuide, .discPanel, .ciphInfoPanel, .cipherInfo, .contactInfo, .contextMenuTooltip,
 .dateCalcContainer, .colorControlsBG, .editCiphersContainer, .printImageContainer,
 #BreakTableContainer, #ChartSpot, #imgDataDesc, #calcNotification,
 #BreakdownDetails, .numPropTooltip, .dateCalcBg, .dateCalcTable2,
