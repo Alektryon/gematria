@@ -364,7 +364,7 @@ function createAboutMenu() { // create menu with all cipher catergories
 	o += '<div style="margin: 0.5em;"></div>'
 	o += '<input class="intBtn" type="button" value="Ciphers (Info)" onclick="displayCiphInfo()">'
 	o += '<div style="margin: 0.5em;"></div>'
-	o += '<div style="position: relative;"><div class="gitLogo">'+gitSvgLogo()+'</div><a class="intBtnRepo" target="_blank" href="https://github.com/Alektryon/gematro">GitHub</a></div>'
+	o += '<div style="position: relative;"><div class="gitLogo">'+gitSvgLogo()+'</div><a class="intBtnRepo" target="_blank" href="https://github.com/Alektryon/gematria">GitHub</a></div>'
 	o += '<div style="margin: 0.5em;"></div>'
 	o += '<input class="intBtn" type="button" value="Databases (Mega)" onclick="gotoMega()">'
 	o += '<div style="margin: 0.5em;"></div>'
