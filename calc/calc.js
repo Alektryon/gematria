@@ -377,7 +377,7 @@ function createAboutMenu() { // create menu with all cipher catergories
 	document.getElementById("calcOptionsPanel").innerHTML = o
 }
 
-function gotoMega() { window.open("https://mega.nz/folder/xggFAICR#9o8V2dCM3rEVjh7eDx0JDQ", "_blank") }
+function gotoMega() { window.open("https://mega.nz/folder/ggh1ySbR#9o8V2dCM3rEVjh7eDx0JDQ", "_blank") }
 
 function gotoBlogger() { window.open("https://gematriaresearch.blogspot.com/", "_blank") }
 
@@ -1845,3 +1845,4 @@ function contextMenuAddToHistoryAction(p) {
 	else { addPhraseToHistoryUnshift(phr, true) } // insert in the beginning
 	hideContextMenu()
 }
+
