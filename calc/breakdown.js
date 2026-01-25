@@ -90,7 +90,7 @@ function updateWordBreakdown(impName = breakCipher, impBool = false, chartUpd = 
 				simplePhr = sVal() // display full phrase
 			}
 			oStart += '<div id="SimpleBreak">'
-			oStart += '<span class="breakPhrase">' + simplePhr + '</span><span class="breakPhrase"> = </span><span class="breakSum">'
+			oStart += '<span class="breakPhrase">"' + simplePhr + '"</span><span class="breakPhrase"> = </span><span class="breakSum">'
 			if (curCipher.wheelCipher) {
 				oStart += curCipher.multiCharacter ? getSumStr(curCipher.sv) :
 					getSumStr(curCipher.cv) // add all values in array
@@ -272,7 +272,7 @@ function updateWordBreakdown(impName = breakCipher, impBool = false, chartUpd = 
 		var chartClass = 'SimpleBreakChart'
 		if (curCiphercp.length > chLimit) chartClass = 'SimpleBreakChartLong'
 		o = '<tr><td colspan=' + tdCount + '>'
-		o += '<div class="'+chartClass+'"><span class="breakPhraseChart">' + simplePhr + ' = '
+		o += '<div class="'+chartClass+'"><span class="breakPhraseChart">"' + simplePhr + '" = '
 		o += curCipher.wheelCipher ? getSumStr(curCipher.sv) :
 			curCipher.sumArr.reduce(getSum) // add all values in array
 		o += ' </span><span class="breakPhraseChartCiphName" style="'+curCiphCol+'">(' + curCipher.cipherName + gemCalcModeLabel(curCipher) + ')</span></div></td></tr>'
@@ -448,3 +448,4 @@ function updateCipherChart(curCipher) {
 
 	document.getElementById("ChartSpot").innerHTML = o
 }
+
