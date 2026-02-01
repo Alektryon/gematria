@@ -79382,7 +79382,7 @@ St-Emilion
 St-John Perse
 St-simonian
 St-simonianism
-St-simonist.
+St-simonist
 St. Andrews
 St. Ex.
 StRaphael
@@ -93737,7 +93737,7 @@ add insult to injury
 add to
 add up
 add up to
-add-add.
+add-add
 addax
 added sixth
 added sixth chord
@@ -117215,7 +117215,7 @@ ca' canny
 ca'-thro'
 ca'canny
 ca'ing-whale
-ca-ca.
+ca-ca
 caaing whale
 cab fare
 cab hire
@@ -199235,7 +199235,7 @@ mimosa bark
 mimosa family
 mimosa-leaved
 mimosaceous
-min min.
+min min
 minacious
 minaret
 minatory
@@ -213676,7 +213676,7 @@ pat on the head
 pat pend
 pat yourself on the back
 pat-a-cake
-pat-pat.
+pat-pat
 pat. pend.
 patagium
 patch
@@ -264200,7 +264200,7 @@ t'ai chi chu'an
 t'ao t'ieh
 t-bar lift
 t-bone
-t-shirt.
+t-shirt
 t.b.
 t.g.
 tRNA
