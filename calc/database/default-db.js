@@ -1346,7 +1346,6 @@ Adlerian psychology
 Adley
 Adlie Coast
 Adlumia
-Adm
 Adm.
 Admah
 Admete
@@ -1595,7 +1594,6 @@ Aetolian
 Aetolus
 Aetomorphae
 Aetosaurus
-Af
 Af.
 Afars and Issas
 Afars and the Issas
@@ -2278,7 +2276,6 @@ Alarice
 Alarick
 Alarise
 Alarodian
-Alas
 Alas.
 Alascan
 Alasdair
@@ -2487,7 +2484,6 @@ Alcyones
 Alcyoneus
 Alcyoniaceae
 Alcyonium
-Ald
 Ald.
 Alda
 Aldabra
@@ -3178,7 +3174,6 @@ Alston's Glasgow type
 Alstonia
 Alstroemeria
 Alsworth
-Alta
 Alta.
 Altadena
 Altaf
@@ -3305,7 +3300,6 @@ Alyworth
 Alzada
 Alzheimer's disease
 AmŽlie
-Am
 Am.
 AmMIEE
 Ama
@@ -4321,7 +4315,6 @@ Angiospermae
 Angka
 Angkor
 Angkor Wat
-Angl
 Angl.
 Angledozer
 Angleinlet
@@ -5207,7 +5200,6 @@ Apluda
 Aplysia
 Apneumona
 Apo
-Apoc
 Apoc.
 Apocalypse
 Apocr
@@ -5309,7 +5301,6 @@ Appomattoc
 Appomattox
 Appropriations
 Apps
-Apr
 Apr.
 Apresoline
 April
@@ -5778,7 +5769,6 @@ Aretus
 Areus
 Arezzini
 Arezzo
-Arg
 Arg.
 Argades
 Argall
@@ -5962,7 +5952,6 @@ Arius
 Arivaca
 Arivaipa
 Ariyalur group
-Ariz
 Ariz.
 Arizona
 Arizona cypress
@@ -6661,7 +6650,6 @@ Assumptionist
 Assur
 Assurbanipal
 Assurnasirpal II
-Assyr
 Assyr.
 Assyria
 Assyrian
@@ -7080,7 +7068,6 @@ Aueto
 Aufklarung
 Aufklrung
 Aufmann
-Aug
 Aug.
 Auge
 Augean
@@ -7187,7 +7174,6 @@ Aurore
 Aurorian
 Aurthur
 Aurungzeb
-Aus
 Aus.
 Ausable
 Auschwitz
@@ -7202,7 +7188,6 @@ Ausones
 Ausonian
 Ausonius
 Aussie
-Aust
 Aust.
 Austafrican
 Austell
@@ -8499,7 +8484,6 @@ Balsaminaceae
 Balsamodendron
 Balsamorrhiza
 Balshem
-Balt
 Balt.
 Balta
 Baltassar
@@ -9684,7 +9668,6 @@ Belfast
 Belfield
 Belford
 Belfort
-Belg
 Belg.
 Belgae
 Belgaum
@@ -11390,7 +11373,6 @@ Blythedale
 Blytheville
 Blythewood
 Bme
-Bn
 Bn.
 Bo Schembechler
 Bo-Bo
@@ -11625,7 +11607,6 @@ Bokharan
 Bokm'
 Bokoshe
 Bokoto
-Bol
 Bol.
 Bolag
 Bolan
@@ -12335,7 +12316,6 @@ Bozovich
 Bozrah
 Bozuwa
 Bozzaris
-Br
 Br.
 Bra
 Braasch
@@ -12616,7 +12596,6 @@ Brayley
 Braymer
 Braynard
 Brayton
-Braz
 Braz.
 Brazeau
 Brazee
@@ -13371,7 +13350,6 @@ Brythonic
 Bryum
 Brzegiem
 Bs/L
-Bt
 Bt.
 Btu
 Bu
@@ -13567,7 +13545,6 @@ Bulbocodium
 Bulbophyllum
 Bulent Ecevit
 Bulfinch
-Bulg
 Bulg.
 Bulganin
 Bulgar
@@ -13972,7 +13949,6 @@ Bysshe
 Bytom
 Bywaters
 Bywoods
-Byz
 Byz.
 Byzantian
 Byzantine
@@ -14928,7 +14904,6 @@ Camarines Sur
 Camas
 Camassia
 Camaxtli
-Camb
 Camb.
 Camball
 Cambalo
@@ -15094,7 +15069,6 @@ Canaanitic
 Canaanitish
 Canace
 Canacee
-Canad
 Canad.
 Canada
 Canada anemone
@@ -15255,7 +15229,6 @@ Canova
 Canovanas
 Canrobert
 Canso
-Cant
 Cant.
 Cantab
 Cantabri
@@ -15444,7 +15417,6 @@ Capsella
 Capshaw
 Capsian
 Capsidae
-Capt
 Capt.
 Captain Bobadil
 Captain Hicks
@@ -15539,7 +15511,6 @@ Carchariidae
 Carcharodon
 Carchemish
 Carcinoscorpius
-Card
 Card.
 Cardale
 Cardamine
@@ -16207,7 +16178,6 @@ Caterpillar Club
 Cates
 Catesbaea
 Catesby
-Cath
 Cath.
 Catha
 Cathar
@@ -16357,7 +16327,6 @@ Causeries du Lundi
 Causus
 Cauthornville
 Cauvery
-Cav
 Cav.
 Cavafy
 Cavalerius
@@ -16437,7 +16406,6 @@ Cdenas
 Cdiz
 Cdn
 Cdoba
-Cdr
 Cdr.
 Cdre
 Ce
@@ -18174,7 +18142,6 @@ Choveve zion
 Chowanoc
 Chowchilla
 Chozar
-Chr
 Chr.
 Chrestien de Troyes
 Chretien
@@ -18388,7 +18355,6 @@ Chromididae
 Chromo
 Chromobacterieae
 Chromobacterium
-Chron
 Chron.
 Chronicles
 Chronium
@@ -19232,7 +19198,6 @@ Clytie
 Clytius
 Clyve
 Clywd
-Cmdr
 Cmdr.
 Cmon
 Cnemidophorus
@@ -19626,7 +19591,6 @@ Colmer
 Colmesneil
 Coln
 Colner
-Colo
 Colo.
 Colocasia
 Colocephali
@@ -19762,9 +19726,7 @@ Combretaceae
 Combretum
 Combs
 Comdie Francaise
-Comdr
 Comdr.
-Comdt
 Comdt.
 Comecon
 Comecrudo
@@ -19855,7 +19817,6 @@ Compton-Debye effect
 Comptonia
 Comptroller of the Currency
 Computer Age
-Comr
 Comr.
 Comras
 Comsomol
@@ -19870,7 +19831,6 @@ Comtism
 Comtist
 Comus
 Comyns
-Con
 Con.
 Conah
 Conakry
@@ -19948,7 +19908,6 @@ Confucian
 Confucianism
 Confucianist
 Confucius
-Cong
 Cong.
 Congdon
 Conger
@@ -21831,7 +21790,6 @@ Cyzicus
 Czajer
 Czanne
 Czarra
-Czech
 Czech.
 Czechic
 Czechish
@@ -23386,7 +23344,6 @@ Deluge
 Delvalle
 Delwin
 Delwyn
-Dem
 Dem.
 Dema
 Demaggio
@@ -23763,7 +23720,6 @@ Deus Ramos
 Deus vobiscum
 Deus vult
 Deusdedit
-Deut
 Deut.
 Deutero-nicene
 Deuteromycetes
@@ -24666,7 +24622,6 @@ Doloritas
 Dolph
 Dolphus
 Dolton
-Dom
 Dom.
 Domaci Beli Sir
 Domagk
@@ -25096,7 +25051,6 @@ Doyline
 Doyon
 Dozier
 Dq
-Dr
 Dr.
 Draba
 Drabeck
@@ -25568,7 +25522,6 @@ Duque de Caxias
 Duquesne
 Duquette
 Duquoin
-Dur
 Dur.
 Duralumin
 Duran
@@ -26296,7 +26249,6 @@ Ecclesiam Suam
 Ecclesiastes
 Ecclesiastical Commissioners
 Ecclesiasticus
-Ecclus
 Ecclus.
 Ecevit
 Echecles
@@ -26389,7 +26341,6 @@ Ectopistes
 Ectoprocta
 Ector
 Ectotrophi
-Ecua
 Ecua.
 Ecuador
 Ecuadoran
@@ -26626,7 +26577,6 @@ Efremov
 Efren
 Efron
 Efthim
-Eg
 Eg.
 Egadi
 Egan
@@ -27079,7 +27029,6 @@ Elissa
 Elista
 Elita
 Elite Guard
-Eliz
 Eliz.
 Eliza
 Elizabet
@@ -27471,7 +27420,6 @@ Emmylou
 Emogene
 Emory
 Emory oak
-Emp
 Emp.
 Empedoclean
 Empedocles
@@ -27807,7 +27755,6 @@ Epeirot
 Eperua
 Epes
 Epeus
-Eph
 Eph.
 Ephedra
 Ephedraceae
@@ -27887,7 +27834,6 @@ Epinephelus
 Epione
 Epipactis
 Epipaleolithic
-Epiph
 Epiph.
 Epiphania
 Epiphanies
@@ -27898,7 +27844,6 @@ Epipsychidion
 Epirote
 Epirotic
 Epirus
-Epis
 Epis.
 Episc
 Episcopal Church
@@ -28244,7 +28189,6 @@ Escorial
 Escudero
 Esculapian
 Escurial
-Esd
 Esd.
 Esdraelon
 Esdras
@@ -28316,7 +28260,6 @@ Esprito Santo
 Espritu Santo
 Espronceda
 Espy
-Esq
 Esq.
 Esquiline
 Esquimau
@@ -28381,7 +28324,6 @@ Estes Kefauver
 Estes Park
 Estevan
 Estey
-Esth
 Esth.
 Esthacyte
 Esther
@@ -28704,7 +28646,6 @@ Euprepia
 Euproctis
 Euptelea
 Eupterotidae
-Eur
 Eur.
 Eurafric
 Eurafrican
@@ -29011,7 +28952,6 @@ Ex
 Exarchic
 Exarchist
 Exaudi
-Exc
 Exc.
 Excalibur
 Excedrin
@@ -29044,7 +28984,6 @@ Exocoetidae
 Exocoetus
 Exocyclica
 Exocycloida
-Exod
 Exod.
 Exogenae
 Exogonium
@@ -29088,7 +29027,6 @@ Eyre's Peninsula
 Eysenck
 Eysk
 Eyskens
-Ez
 Ez.
 Ezana
 Ezar
@@ -29098,7 +29036,6 @@ Ezarra
 Ezarras
 Ezechias
 Ezechiel
-Ezek
 Ezek.
 Ezekiel
 Ezel
@@ -29864,7 +29801,6 @@ Feast of Weeks
 Feast of the Dedication
 Feast of the Unleavened Bread
 Featherstone
-Feb
 Feb.
 Febe
 Febronian
@@ -30510,7 +30446,6 @@ Fjare
 Fjelsted
 Fjorgyn
 Fl
-Fla
 Fla.
 Flacian
 Flacianism
@@ -30581,7 +30516,6 @@ Fleischer
 Fleischmanns
 Fleisher
 Fleisig
-Flem
 Flem.
 Fleming
 Fleming valve
@@ -31637,7 +31571,6 @@ Freyja
 Freyr
 Freyre
 Freytag
-Fri
 Fri.
 Fria
 Friant
@@ -31710,7 +31643,6 @@ Fringilla
 Fringillidae
 Fringilliformes
 Friona
-Fris
 Fris.
 Frisbee
 Frisch
@@ -32144,7 +32076,6 @@ GUS
 GW
 GWEN
 GWS
-Ga
 Ga.
 Gaal
 Gaastra
@@ -32284,7 +32215,6 @@ Gaivn
 Gajcur
 Gajda
 Gakona
-Gal
 Gal.
 Gala
 Galacaceae
@@ -33098,7 +33028,6 @@ Genisia
 Genista
 Genitrix
 Genk
-Genl
 Genl.
 Genna
 Gennaro
@@ -34648,7 +34577,6 @@ Gotama
 Gotcher
 Gotebo
 Goteborg
-Goth
 Goth.
 Gotha
 Gotham
@@ -34721,7 +34649,6 @@ Gourmont
 Gournay
 Gournia
 Gouverneur
-Gov
 Gov.
 Gove
 Governador Valadares
@@ -34729,7 +34656,6 @@ Government Operations
 Government Printing Office
 Governor Winthrop desk
 Governors Island
-Govt
 Govt.
 Gow
 Gowanda
@@ -35663,7 +35589,6 @@ Guarrau
 Guaruan
 Guastalline
 Guasti
-Guat
 Guat.
 Guatemala
 Guatemala City
@@ -35777,7 +35702,6 @@ Guillermo Ford
 Guillermo Garcia Ponte
 Guimar
 Guimond
-Guin
 Guin.
 Guinda
 Guinea
@@ -36229,7 +36153,6 @@ Haaretz
 Haarlem
 Haas
 Haase
-Hab
 Hab.
 Haba
 Habab
@@ -37445,7 +37368,6 @@ Heaviside region
 Heaviside unit function
 Heaviside-Kennelly layer
 Heaviside-Kennelly region
-Heb
 Heb.
 Hebbe
 Hebbel
@@ -39305,7 +39227,6 @@ Hon Sec
 Honaker
 Honan
 Honaunau
-Hond
 Hond.
 Honda
 Hondo
@@ -39522,7 +39443,6 @@ Horvatian
 Horvitz
 Horwath
 Horwitz
-Hos
 Hos.
 Hosackia
 Hosbein
@@ -40744,7 +40664,6 @@ Ice
 Ice Observation Service
 Ice patrol
 Ice.
-Icel
 Icel.
 Iceland
 Iceland crystal
@@ -41142,7 +41061,6 @@ Imogene
 Imojean
 Imola
 Imolinda
-Imp
 Imp.
 Impatiens
 Impatientaceae
@@ -41198,7 +41116,6 @@ Incorruptible
 Increase
 Incrocci
 Incrustata
-Ind
 Ind.
 IndE
 Indanthrene
@@ -41417,7 +41334,6 @@ Inesita
 Ineslta
 Inessa
 Inez
-Inf
 Inf.
 Infeld
 Inferi
@@ -41679,7 +41595,6 @@ Ipswich
 Iqbal
 Iquique
 Iquitos
-Ir
 Ir.
 IrGael
 Ira
@@ -41688,7 +41603,6 @@ Irak
 Iraki
 Irakis
 Iraklion
-Iran
 Iran.
 Irani
 Iranian
@@ -42080,7 +41994,6 @@ Issy-les-Molineux
 Issyk-Kul
 Istachatta
 Istanbul
-Isth
 Isth.
 Isthmia
 Isthmian Games
@@ -42374,7 +42287,6 @@ JIC
 JILA
 JIS
 JISC
-JJ
 JJ.
 JLE
 JMP
@@ -42847,7 +42759,6 @@ Jany
 Janye
 Janys
 Janyte
-Jap
 Jap.
 Japan
 Japan Current
@@ -42996,7 +42907,6 @@ Jarvin
 Jarvis
 Jarvisburg
 Jary
-Jas
 Jas.
 Jascha
 Jascha Heifetz
@@ -43031,7 +42941,6 @@ Jauch
 Jaunita
 Jaur
 Jaures
-Jav
 Jav.
 Java
 Java Sea
@@ -43288,7 +43197,6 @@ Jephum
 Jepson
 Jepum
 Jequie
-Jer
 Jer.
 Jerad
 Jerahmeel
@@ -44136,7 +44044,6 @@ Jozef
 Jozef Cyrankiewicz
 Jozef Czyrek
 Jozy
-Jr
 Jr.
 Jsandye
 Jtunn
@@ -44171,7 +44078,6 @@ Jubilate Sunday
 Jubile
 Jubilee rig
 Jucuna
-Jud
 Jud.
 Juda
 Judaea
@@ -44280,7 +44186,6 @@ Juin
 Juiz de Fora
 Jujuy
 Jukes
-Jul
 Jul.
 Jule
 Julee
@@ -44337,7 +44242,6 @@ Jumada
 Jumana
 Jumbala
 Jumna
-Jun
 Jun.
 Juna
 Junc
@@ -44893,7 +44797,6 @@ Kanorado
 Kanosh
 Kanpur
 Kanred
-Kans
 Kans.
 Kansa
 Kansan
@@ -46573,7 +46476,6 @@ Knoxboro
 Knoxdale
 Knoxian
 Knoxville
-Knt
 Knt.
 Knudsen
 Knudsen effect
@@ -47153,7 +47055,6 @@ Krystle
 Krystyna
 Kshatriya
 Kshatriyahood
-Kt
 Kt.
 Kten
 Kthira
@@ -47390,7 +47291,6 @@ Kwethluk
 Kwigillingok
 Kwok
 Kwon
-Ky
 Ky.
 Kyack
 Kybele
@@ -49778,7 +49678,6 @@ Levinson
 Levis
 Levison
 Levisticum
-Levit
 Levit.
 Levitan
 Levite
@@ -50024,7 +49923,6 @@ Liesegang rings
 Liestal
 Lietman
 Lietuva
-Lieut
 Lieut.
 Liew
 Lif
@@ -51374,7 +51272,6 @@ Lt. Col.
 Lt. Comdr.
 Lt. Gen.
 Lt. Gov.
-Ltd
 Ltd.
 Ltzen
 Lu
@@ -51710,7 +51607,6 @@ Lutesville
 Lutetia
 Lutetia Parisiorum
 Lutetian
-Luth
 Luth.
 Luthanen
 Luther
@@ -52419,7 +52315,6 @@ Macatawa
 Macau
 Macaulay
 Macbeth
-Macc
 Macc.
 Maccabaeus
 Maccabean
@@ -52428,7 +52323,6 @@ Maccarone
 Macdonnell Ranges
 Macduff
 Mace
-Maced
 Maced.
 Macedon
 Macedonia
@@ -52563,7 +52457,6 @@ Macusi
 Macy
 Mad Decade
 Mada
-Madag
 Madag.
 Madagascan
 Madagascar
@@ -55095,7 +54988,6 @@ Mckay
 Mcmurdo Sound
 Mcon
 Mconnais
-Md
 Md.
 Mdewakanton
 Mdlle
@@ -55206,7 +55098,6 @@ Medinah
 Medinilla
 Medish
 Medism
-Medit
 Medit.
 Mediterranean
 Mediterranean Sea
@@ -56193,7 +56084,6 @@ Miaotze
 Miaplacidus
 Miass
 Miastor
-Mic
 Mic.
 Micaela
 Micah
@@ -56205,7 +56095,6 @@ Micawberish
 Micawberism
 Micco
 Miccosukee
-Mich
 Mich.
 Michabo
 Michabou
@@ -56829,7 +56718,6 @@ Miniver Cheevy
 Minkopi
 Minkowski universe
 Minkowski world
-Minn
 Minn.
 Minna
 Minnaminnie
@@ -57246,7 +57134,6 @@ Mogul empire
 Moguntine
 Mohacan
 Mohall
-Moham
 Moham.
 Mohamed
 Mohammad
@@ -58251,7 +58138,6 @@ MrsWarren's profession
 Mru
 Ms-Th
 Ms.
-Msgr
 Msgr.
 Mster
 Msterberg
@@ -59205,7 +59091,6 @@ Nagy
 Nagyszeben
 Nagyvarad
 Nagyvrad
-Nah
 Nah.
 Naha
 Nahama
@@ -59738,7 +59623,6 @@ Nebaliacea
 Nebaliidae
 Nebiim
 Nebo
-Nebr
 Nebr.
 Nebraska
 Nebraskan
@@ -59853,7 +59737,6 @@ Negros
 Negrotic
 Negundo
 Negus
-Neh
 Neh.
 Nehalem
 Nehantic
@@ -60202,7 +60085,6 @@ Netaji
 Netawaka
 Netchilik
 Netcong
-Neth
 Neth.
 Netherlander
 Netherlandian
@@ -60256,7 +60138,6 @@ Neuss
 Neustria
 Neustrian
 Neutrodyne
-Nev
 Nev.
 Neva
 Neva green
@@ -61122,7 +61003,6 @@ Nootka cypress
 Nootka fir
 Nootkas
 Nopalea
-Nor
 Nor.
 Nora
 Norah
@@ -61373,7 +61253,6 @@ Norvil
 Norvin
 Norvol
 Norvun
-Norw
 Norw.
 Norwalk
 Norward
@@ -61959,7 +61838,6 @@ Oaxaca
 Oaxaca de Juarez
 Ob
 Oba
-Obad
 Obad.
 Obadiah
 Obadias
@@ -62394,7 +62272,6 @@ Okie
 Okinagan
 Okinawa
 Okinawan
-Okla
 Okla.
 Oklafalaya
 Oklahannali
@@ -62508,7 +62385,6 @@ Old South
 Old Spanish
 Old Stoa
 Old Stone Age
-Old Test
 Old Test.
 Old Time
 Old Town
@@ -62674,7 +62550,6 @@ Olynthiac
 Olynthian
 Olynthus
 Olyphant
-Om
 Om.
 Omagh
 Omagua
@@ -62783,7 +62658,6 @@ Onosmodium
 Onslow
 Onstad
 Onsted
-Ont
 Ont.
 Ontarian
 Ontaric
@@ -62980,7 +62854,6 @@ Oreana
 Oreas
 Orebro
 Orefield
-Oreg
 Oreg.
 Oregon
 Oregon Jargon
@@ -63234,7 +63107,6 @@ Ortega y Gasset
 Ortegal
 Orten
 Ortensia
-Orth
 Orth.
 Orthaea
 Orthagoriscus
@@ -64897,7 +64769,6 @@ Parkston
 Parksville
 Parkton
 Parkville
-Parl
 Parl.
 Parlatoria
 Parley
@@ -66096,7 +65967,6 @@ Pestalozzian
 Pestalozzianism
 Pestana
 Peste
-Pet
 Pet.
 PetE
 Peta
@@ -66503,7 +66373,6 @@ Philbo
 Philbrook
 Philby
 Philcox
-Philem
 Philem.
 Philemol
 Philemon
@@ -68565,9 +68434,7 @@ Prendergast
 Prent
 Prenter
 Prentiss
-Pres
 Pres.
-Presb
 Presb.
 Presber
 Presbyt
@@ -69065,7 +68932,6 @@ Prospero
 Prosperus
 Prosser
 Prostigmin
-Prot
 Prot.
 Protagoras
 Protagorean
@@ -69213,7 +69079,6 @@ Proust
 Proustian
 Prout
 Prouty
-Prov
 Prov.
 Provature
 Provenal
@@ -69252,7 +69117,6 @@ Prunaceae
 Prunella
 Prunellidae
 Prunus
-Prus
 Prus.
 Pruss
 Prussia
@@ -69697,7 +69561,6 @@ Puy de Sancy
 Puya
 Puyallup
 Pvid's deer
-Pvt
 Pvt.
 Pw Botha
 Py
@@ -69933,7 +69796,6 @@ Qkt
 Qld
 Qoheleth
 Qom
-Qq
 Qq.
 Quackenbush
 Quader
@@ -70011,7 +69873,6 @@ Quathlamba
 Quatre Bras
 Quatsino
 Qubecois
-Que
 Que.
 Quebec
 Quebecer
@@ -71283,7 +71144,6 @@ Reginauld
 Regine
 Regiomontanus
 Rego
-Regt
 Regt.
 Regulares
 Regularia
@@ -73167,7 +73027,6 @@ Rozet
 Rozi
 Rozina
 Rriocard
-Rs
 Rs.
 Rt Hon
 Rt Rev
@@ -73345,7 +73204,6 @@ Ruralhall
 Rurik
 Ruritania
 Ruritanian
-Rus
 Rus.
 Rusa
 Ruscher
@@ -73504,7 +73362,6 @@ Ruysdael
 Ruyter
 Ruzich
 Rwanda
-Rwy
 Rwy.
 Ry
 Ryan
@@ -73952,7 +73809,6 @@ Saare
 Saaremaa
 Saarinen
 Saarland
-Sab
 Sab.
 Saba
 Sabadell
@@ -75099,7 +74955,6 @@ Sasebo
 Saseno
 Sasha
 Sashenka
-Sask
 Sask.
 Saskatchewan
 Saskatoon
@@ -75943,7 +75798,6 @@ Scriabin
 Scribner
 Scribners
 Scripps
-Script
 Script.
 Scripturalism
 Scripturalist
@@ -76502,7 +76356,6 @@ Sepoy Mutiny
 Sepoy Rebellion
 Seppala
 Sepsidae
-Sept
 Sept.
 September
 September Massacre
@@ -79501,7 +79354,6 @@ Sri Lanka
 Srinagar
 Srini
 Srinivasa
-Srta
 Srta.
 St Andrew's Cross
 St Andrews
@@ -79530,8 +79382,7 @@ St-Emilion
 St-John Perse
 St-simonian
 St-simonianism
-St-simonist
-St.
+St-simonist.
 St. Andrews
 St. Ex.
 StRaphael
@@ -79753,7 +79604,6 @@ Staw
 Stayton
 Stbark
 Stclair
-Ste
 Ste.
 Steamburg
 Stearn
@@ -80486,7 +80336,6 @@ Suffern
 Suffield
 Suffolk
 Suffolk punch
-Suffr
 Suffr.
 Sufi
 Sufi order
@@ -80701,7 +80550,6 @@ Supreme Court
 Supreme Court of Judicature
 Supreme People's Assembly
 Supreme Soviet
-Supt
 Supt.
 Suquamish
 Suqutra
@@ -80838,7 +80686,6 @@ Svign
 Svizzera
 Svoboda
 Svres
-Sw
 Sw.
 Swabia
 Swabian
@@ -80971,7 +80818,6 @@ Swithbart
 Swithbert
 Swithin
 Swithun
-Switz
 Switz.
 Switzer
 Switzeress
@@ -82531,7 +82377,6 @@ Tengri Nor
 Teniers
 Tenino
 Tenmile
-Tenn
 Tenn.
 Tennant
 Tenneco
@@ -82777,7 +82622,6 @@ Teucrian
 Teucrium
 Teufel
 Teufert
-Teut
 Teut.
 Teuthis
 Teuthras
@@ -82828,7 +82672,6 @@ Tewfik
 Tewkesbury
 Tewksbury
 Tews
-Tex
 Tex.
 Texaco
 Texan
@@ -83150,7 +82993,6 @@ Thesproti
 Thesprotia
 Thesprotians
 Thesprotis
-Thess
 Thess.
 Thessa
 Thessalian
@@ -83441,7 +83283,6 @@ Thurmont
 Thurnau
 Thurnia
 Thurniaceae
-Thurs
 Thurs.
 Thursby
 Thursday
@@ -83816,7 +83657,6 @@ Tisman
 Tisserand
 Tissot
 Tisza
-Tit
 Tit.
 Tita
 Titan
@@ -83896,7 +83736,6 @@ Toaalta
 Toabaja
 Toag
 Toano
-Tob
 Tob.
 Toba
 Tobaccoville
@@ -85053,7 +84892,6 @@ Tsushima current
 Tsutsutsi
 Tswana
 Tswanas
-Tu
 Tu.
 Tualati
 Tualatin
@@ -85891,7 +85729,6 @@ Ujpest
 Ujung Pandang
 Uke
 Ukiah
-Ukr
 Ukr.
 Ukraina
 Ukraine
@@ -86299,7 +86136,6 @@ United-statesian
 Unity
 Unityhouse
 Unityville
-Univ
 Univ.
 Universal Postal Union
 Universal Product Code
@@ -86502,7 +86338,6 @@ Urtica
 Urticaceae
 Urticales
 Urticastrum
-Uru
 Uru.
 Uruapan
 Uruguaiana
@@ -87301,7 +87136,6 @@ Velva
 Velveeta
 Velvet Underground
 Velzquez
-Ven
 Ven.
 Vena
 Venable
@@ -88208,7 +88042,6 @@ Vudimir
 Vuelta Abajo
 Vuelta tobacco
 Vuillard
-Vul
 Vul.
 Vulcan
 Vulcanalia
@@ -88843,7 +88676,6 @@ Wasco
 Wascott
 Waseca
 Wasegua
-Wash
 Wash.
 Washaki
 Washburn
@@ -90165,7 +89997,6 @@ Wiros
 Wirral
 Wirth
 Wirtz
-Wis
 Wis.
 Wisacky
 Wisby
@@ -90175,7 +90006,6 @@ Wisconsin
 Wisconsin Rapids
 Wisconsin cheese
 Wisconsinite
-Wisd
 Wisd.
 Wisdom of Jesus
 Wisdom of Solomon
@@ -90571,7 +90401,6 @@ Wynnie
 Wynny
 Wynona
 Wynot
-Wyo
 Wyo.
 Wyocena
 Wyola
@@ -90763,7 +90592,6 @@ Xiphydriidae
 Xiraxara
 Xmas
 Xn.
-Xnty
 Xnty.
 Xograph
 Xopher
@@ -91593,7 +91421,6 @@ Zebulen
 Zebulon
 Zebulun
 Zebulunite
-Zech
 Zech.
 Zechariah
 Zechstein
@@ -91675,7 +91502,6 @@ Zenonic
 Zeoidei
 Zeona
 Zep
-Zeph
 Zeph.
 Zephan
 Zephaniah
@@ -93873,7 +93699,6 @@ ad patres
 ad quem
 ad rem
 ad utrumque paratus
-ad val
 ad val.
 ad valorem
 ad valorem duty
@@ -93912,8 +93737,7 @@ add insult to injury
 add to
 add up
 add up to
-add-add
-add.
+add-add.
 addax
 added sixth
 added sixth chord
@@ -96720,7 +96544,6 @@ alright
 alsike clover
 also not
 also-ran
-alt
 alt.
 alta vox
 altar
@@ -98227,7 +98050,6 @@ anomalous
 anomalous zeeman effect
 anomaly
 anomie
-anon
 anon.
 anonym
 anonymous
@@ -112808,7 +112630,6 @@ boston bull
 boston cream pie
 boston fern
 bosun
-bot
 bot.
 botanical
 botanical garden
@@ -117394,8 +117215,7 @@ ca' canny
 ca'-thro'
 ca'canny
 ca'ing-whale
-ca-ca
-ca.
+ca-ca.
 caaing whale
 cab fare
 cab hire
@@ -120860,7 +120680,6 @@ cayenne whist
 cayman
 cayuse
 cc.
-cd
 cd.
 cease
 cease fire
@@ -121110,7 +120929,6 @@ census report
 census returns
 census taker
 census tract
-cent
 cent.
 cental
 centare
@@ -128384,7 +128202,6 @@ commute
 commuter
 commutual
 comose
-comp
 comp.
 compact car
 compact of
@@ -129410,7 +129227,6 @@ conquer
 conquering hero
 conquian
 conquistador
-cons
 cons.
 consanguineous
 consanguinity
@@ -134320,7 +134136,6 @@ cuprous cyanide
 cuprum
 cupulate
 cupule
-cur
 cur.
 curable
 curacy
@@ -141129,7 +140944,6 @@ doberman pinscher
 dobla
 dobson fly
 dobsonfly
-doc
 doc.
 docent
 doch-an-dorrach
@@ -141507,7 +141321,6 @@ doing nicely
 doings
 doit
 doited
-dol
 dol.
 dolabriform
 dolce
@@ -144394,7 +144207,6 @@ duodiode-triode
 duologue
 duomo
 duotone
-dup
 dup.
 dupable person
 dupe
@@ -145865,7 +145677,6 @@ eldest-born
 eldritch
 elec cement
 elecampane
-elect
 elect.
 elected by acclamation
 election
@@ -148255,13 +148066,11 @@ estuarine
 estuarine area
 estuary
 esurient
-et al
 et al.
 et alii
 et cetera
 et hoc genus omne
 et id genus omne
-et seq
 et seq.
 et seqq
 et sequens
@@ -148893,7 +148702,6 @@ ex facie
 ex facto
 ex gratia
 ex hypothesi
-ex int
 ex int.
 ex lege
 ex lib
@@ -174202,7 +174010,6 @@ hispidulous
 hiss
 hissing
 hissing sounds
-hist
 hist.
 histaminase
 histamine
@@ -179344,7 +179151,6 @@ in march time
 in measure
 in medias res
 in medium
-in mem
 in mem.
 in memoriam
 in memory of
@@ -182445,7 +182251,6 @@ intrinsic
 intrinsic evidence
 intrinsic factor
 intrinsic semiconductor
-intro
 intro.
 introduce
 introduce in
@@ -185998,7 +185803,6 @@ kloof
 klook-klook
 klutz
 klystron
-km
 km.
 kn.
 knack
@@ -197039,7 +196843,6 @@ maternity hospital
 maternity insurance
 maternity ward
 matey
-math
 math.
 mathematical
 mathematical elements
@@ -198703,7 +198506,6 @@ mezzo-soprano clef
 mezzotint
 mfd.
 mho
-mi
 mi.
 mia mia
 miaow
@@ -199433,8 +199235,7 @@ mimosa bark
 mimosa family
 mimosa-leaved
 mimosaceous
-min min
-min.
+min min.
 minacious
 minaret
 minatory
@@ -202660,7 +202461,6 @@ mystico-allegoric
 mystico-religious
 mystify
 mystique
-myth
 myth.
 mythical
 mythical lore
@@ -205169,12 +204969,10 @@ non placet
 non plus
 non plus ultra
 non possumus
-non pros
 non pros.
 non prosequitur
 non rep
 non repetatur
-non seq
 non seq.
 non sequitur
 non troppo
@@ -213878,8 +213676,7 @@ pat on the head
 pat pend
 pat yourself on the back
 pat-a-cake
-pat-pat
-pat.
+pat-pat.
 pat. pend.
 patagium
 patch
@@ -215160,7 +214957,6 @@ per mil
 per mill
 per pais
 per pale
-per pro
 per pro.
 per procuration
 per procurationem
@@ -217797,7 +217593,6 @@ pizzicato
 pk.
 pkg.
 pkt.
-pl
 pl.
 placable
 placard
@@ -223388,7 +223183,6 @@ procure
 procure materials
 procurement editor
 procurer
-prod
 prod.
 prodigal
 prodigal returned
@@ -224814,7 +224608,6 @@ psychotomimetic
 psychrometer
 psychrometric chart
 psyllium seed
-pt
 pt.
 ptarmigan
 pteranodon
@@ -232176,7 +231969,6 @@ reentry
 reest
 reeve
 reeving-line bend
-ref
 ref.
 reface
 refection
@@ -241795,7 +241587,6 @@ secretion
 secretive
 secreto-inhibitory
 secretory
-sect
 sect.
 sectarian
 sectarianism
@@ -254322,7 +254113,6 @@ spearman
 spearmint
 spearmint oil
 spearwort
-spec
 spec.
 special
 special act
@@ -264410,8 +264200,7 @@ t'ai chi chu'an
 t'ao t'ieh
 t-bar lift
 t-bone
-t-shirt
-t.
+t-shirt.
 t.b.
 t.g.
 tRNA
@@ -272322,7 +272111,6 @@ tin-white
 tina process
 tinamou
 tincal
-tinct
 tinct.
 tinctorial
 tincture
@@ -283213,7 +283001,6 @@ vesture
 vesuvian jade
 vesuvianite
 vesuvianite jade
-vet
 vet.
 vetch
 vetch-leaved
