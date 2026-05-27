@@ -717,6 +717,9 @@ body {
 	#highlightBox {
 		width: 100px;
 	}
+	#highlightBox::placeholder {
+		font-size: 80%;
+	}
 	.filterPhraseBox {
 		width: 250px !important;
 	}
@@ -730,6 +733,9 @@ body {
 	}
 	#highlightBox {
 		width: 200px;
+	}
+	#highlightBox::placeholder {
+		font-size: 80%;
 	}
 	.filterPhraseBox {
 		width: 583px !important;
