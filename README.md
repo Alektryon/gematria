@@ -10,6 +10,11 @@
 * Changed the default database to a more "functional" one
 * And some other minor changes (check the list of Commits)
 
+### A word of thanks and appreciation...
+
+* To [Mikhail](https://github.com/malonehunter) ("Saun Virroco"), for obvious reasons
+* To [@malonehunter](https://github.com/malonehunter) for his precious help ;)
+
 ### Features
 
 * Dynamic highlighter with a filter
