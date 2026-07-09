@@ -13,7 +13,7 @@
 ### A word of thanks and appreciation...
 
 * To [Mikhail](https://github.com/gematro) ("Saun Virroco"), for obvious reasons
-* To [@malonehunter](https://github.com/malonehunter) for his precious help ;)
+* To [malonehunter](https://github.com/malonehunter) for his precious help ;)
 
 ### Features
 
