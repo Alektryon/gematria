@@ -65,7 +65,7 @@ var optDotlessLatinI = true // recognize dotless Latin 'ı' as regular 'i'
 var optAllowPhraseComments = true // allow phrase comments, text inside [...] is not evaluated
 var liveDatabaseMode = true // live database mode
 
-var dbPageItems = 7 // number of phrases in one section
+var dbPageItems = 10 // number of phrases in one section
 var dbScrollItems = 1 // used for scrolling
 
 var optGradientCharts = false // gradient fill for breakdown/cipher charts

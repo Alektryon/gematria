@@ -900,7 +900,7 @@ body {
 .hPQ { /* history phrase - query table*/
 	text-align: center;
 	box-sizing: border-box;
-	height: 64px;
+	height: 30px;
 }
 @media (max-width: 911px) { /* mobile */
 	.hPQ { /* history phrase - query table*/
