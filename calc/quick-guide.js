@@ -667,10 +667,6 @@ function displayContactInfo() {
 	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;">Send any suggestion or feedback about the original software to <a class="qgLink" href="mailto:mmiikh96@gmail.com">mmiikh96@gmail.com</a><br><i>(Mikhail, the original author of this software)</i><br><br>If you want to exchange ideas or simply want to talk with me, please use <a class="qgLink" href="mailto:qwirinus@proton.me">qwirinus@proton.me</a><br><i>(Luís Gonçalves, the owner of this ʹforkʹ of Gematro)</i></div>'
 	
 	o += '<hr class="numPropSeparator">'
-
-	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;"><span class="qgBold">Disclaimer:</span><br><br>Let it be made perfectly clear that Mikhail, the author of the original "GEMATRO" software, has no association whatsoever with me (Luís Gonçalves) or with this edited version of his <i>open-source</i> software.</span></div>'
-	
-	o += '<hr class="numPropSeparator">'
 	
 	o += '<div style="margin-top: 1em;">If you enjoy my blog <a href="https://gematriaresearch.blogspot.com" target="_blank">Gematria Research</a> and want to further support my work, I will greatly appreciate if you consider a donation. In the meantime, check my LinkTree! &#128522;</div>'
 
