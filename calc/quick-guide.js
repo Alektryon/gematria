@@ -664,11 +664,11 @@ function displayContactInfo() {
 	
 	o += '<hr class="numPropSeparator">'
 	
-	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;">Send any suggestion or feedback about the original software to <a class="qgLink" href="mailto:mmiikh96@gmail.com">mmiikh96@gmail.com</a><br><i>(Mikhail, the original author of this software)</i><br><br>If you want to exchange ideas or simply want to talk with me, please use <a class="qgLink" href="mailto:qwirinus@proton.me">qwirinus@proton.me</a><br><i>(Luís Gonçalves, the owner of this ʹforkʹ of Gematro)</i></div>'
+	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;">Send any suggestion or feedback about the original software to <a class="qgLink" href="mailto:mmiikh96@gmail.com">mmiikh96@gmail.com</a><br><i>(Mikhail, the original author of this software)</i><br><br>* * *<br><br>If you want to exchange ideas or simply want to talk with me, please use <a class="qgLink" href="mailto:qwirinus@proton.me">qwirinus@proton.me</a><br><i>(Luís Gonçalves, the owner of this ʹforkʹ of Gematro)</i></div>'
 	
 	o += '<hr class="numPropSeparator">'
 	
-	o += '<div style="margin-top: 1em;">If you enjoy my blog <a href="https://gematriaresearch.blogspot.com" target="_blank">Gematria Research</a> and want to further support my work, I will greatly appreciate if you consider a donation. In the meantime, check my LinkTree! &#128522;</div>'
+	o += '<div style="margin-top: 1em;">If you enjoy my blog <a href="https://gematriaresearch.blogspot.com" target="_blank">Gematria Research</a> and want to further support my work, I will greatly appreciate if you consider a donation.<br><br> In the meantime, check my LinkTree! &#128522;</div>'
 
 	o += '<br><span class="qgAddr"><a class="qgLink" target="_blank" href="https://linktr.ee/Alektryon">linktr.ee/Alektryon</a></span><br><br><br>'
 
