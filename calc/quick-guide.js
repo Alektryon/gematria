@@ -660,7 +660,7 @@ function displayContactInfo() {
 	
 	o += '<hr class="numPropSeparator">'
 	
-	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;">This calculator that youʼre using is based entirely on the original <a class="qgLink" href="https://gematro.github.io" target="_blank">GEMATRO</a> calculator by <a class="qgLink" href="https://github.com/gematro" target="_blank">Mikhail</a>, with some changes, deletions and additions by Luís Gonçalves (<a class="qgLink" href="https://github.com/Alektryon" target="_blank">Alektryon</a>).<br></div>'
+	o += '<div style="margin-top: 1em;margin-bottom: 1.25em;">This calculator that youʼre using is based entirely on the original <b>GEMATRO</b> calculator by <b>Mikhail</b>, with some changes, deletions and additions by Luís Gonçalves (<a class="qgLink" href="https://github.com/Alektryon" target="_blank">Alektryon</a>).<br></div>'
 	
 	o += '<hr class="numPropSeparator">'
 	
